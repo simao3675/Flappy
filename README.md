@@ -13,6 +13,7 @@ Select your platform [here](https://drive.google.com/drive/folders/1sGOovHk6Afts
 * Flappy(mac).app is for MacOSX
 * Flappy(android).apk is for Android
 
+> If your platform is Android and install failed, you can reference the following [link](https://www.kocpc.com.tw/archives/206655).
 
 ## Screenshot
 ![](./flappy_mushroom.png)
